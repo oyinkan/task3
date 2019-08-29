@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My CV</title>
+<link rel="stylesheet" type="text/css" href="CV.css">
+</head>
+<body>
+	
+	<h1 id="name">NAJEEM DUROWADE</h1>
+	<img src="https://res.cloudinary.com/najmdurowade/image/upload/v1566639934/IMG_20170908_122259_je40pm.jpg" alt="author" width="150" height="150" align=right>
+
+	
+		 <div id="address">9 Dele Ajayi Close off Fajumobi Road Miccom, Egbeda, Lagos, Nigeria  • 07030677620 • najmdurowade@yahoo.com</div>
+	
+
+	
+			<h2>Profesional Summary</h2>
+		<p>Goals oriented individual with 3 years’ experience/competence in Operations, Maintenance, and Process Control.
+		</p>
+	
+		<h2>
+				Skills
+		</h2>
+			<ul>
+				<li>Currently learning HTML/CSS/JS on Udemy.com</li>
+				<li>Learnt basic Project Manangement and Digital Skills on Udemy.com and Futurelearn.com respectively</li>
+				<li>Critical Thinking</li>
+				<li>Team builder with positive, and team oriented attitude</li>
+				<li>Knowledge of manufacturing operations systems, processes and technology </li>
+				<li>Demonstrated ability to troubleshoot and implement solutions to prevent reoccurring problems</li>
+				<li>Demonstrated effective time management and organizational skills</li>
+				<li>Good communication skills(written, verbal active listening), attitude towards leadership, authorisation and delegation</li>
+				<li>Skilled in Microsoft Office Suites</li>
+			</ul>
+
+		<h2 >
+			Work History 
+		</h2>
+
+			<p>Production Operator, 08/2016 to Current<br> 
+		Nigerian Bottling Company Plc. – Ikeja, Lagos</p>
+
+		<ul>
+			<li>
+				Availability to work a flexible schedule/cover various shifts that include overnights, early mornings, and holidays
+			</li>
+			<li>
+				Lead, motivate, and mentor large teams of associates and contractors, as well as work with management to hold associates accountable for attendance and completion of their work
+			</li>
+			<li>
+				Demonstrated ability to be a dynamic self-starter, work independently and apply sound judgment to solve complex problems
+			</li>
+			<li>
+				Partner with Maintenance, Engineering and Continuous Improvement  resources to execute PM, AM, and TPM processes, thus reducing downtimes by huge margins
+			</li>
+			<li>
+				Ensure that all health and safety guidelines were followed
+			</li>
+			<li>
+				Maintain good housekeeping practices on machines and within work area, complying with all company and safety rules and regulations
+			</li>
+		</ul>
+
+				<p>Technical Trainee, 01/2015 to 06/2016 <br>
+		Nigerian Bottling Company Plc. – Ikeja, Lagos</p>
+
+		<ul>
+			<li>
+				Underwent extensive training on general engineering (electro-mechanical), bottling technology, leadership and management
+			</li>
+			<li>
+				Understudied several bottling equipment (Filler, Bottle Washer, Caser/Uncaser, Labeler, Blow Molder, Shrink wrapper, Palletizer, Stretch wrapper) and utility equipment
+			</li>
+			<li>
+				Supported Production Team with daily operational functions
+			</li>
+		</ul>
+		<h2>
+			Education 
+		</h2>
+		<p>Bachelor of Engineering: Electrical Engineering, 2012 <br>
+		Ahmadu Bello University - Kaduna<br><br>
+		Diploma in Engineering: Electrical Engineering, 2016
+		City&amp;Guilds - London
+		</p>
+	</div>
+		
+	
+
+	
+
+</body>
+</html>
+
+
+
+
+
+
+
